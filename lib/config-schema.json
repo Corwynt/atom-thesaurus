@@ -1,0 +1,12 @@
+{
+  "language":{
+    "type": "string",
+      "default": "english",
+      "enum": ["english","german"]
+  },
+  "apiKey": {
+    "type": "string",
+    "description":"Api Key for [Big Huge Thesaurus](http://words.bighugelabs.com/api.php).*neccessary for english thesaurus*",
+    "default": "NONE"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "thesaurus",
+  "main": "./lib/main",
+  "version": "0.1.0",
+  "description": "Adds Synonyms for words in english or german",
+  "keywords": [
+    "thesaurus",
+    "german",
+    "english"
+  ],
+  "repository": "https://github.com/corwynt/atom-thesaurus",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "atom-space-pen-views": "^2.2",
+    "request-promise": "^3.0.0",
+    "synonymator": "0.0.1"
+  }
+}

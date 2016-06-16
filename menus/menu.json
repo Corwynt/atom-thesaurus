@@ -1,0 +1,10 @@
+{
+  "context-menu": {
+  "atom-text-editor": [
+    {
+      "label": "Find Synonyms",
+      "command": "thesaurus:run"
+    }
+  ]
+}
+}

@@ -1,5 +1,5 @@
 {
   "atom-text-editor": {
-    "cmd-shift-w": "thesaurus:run"
+    "cmd-shift-w": "thesaurus:find"
   }
 }

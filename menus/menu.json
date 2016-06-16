@@ -3,7 +3,7 @@
   "atom-text-editor": [
     {
       "label": "Find Synonyms",
-      "command": "thesaurus:run"
+      "command": "thesaurus:find"
     }
   ]
 }

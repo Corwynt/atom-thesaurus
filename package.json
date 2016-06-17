@@ -5,6 +5,7 @@
   "description": "Adds Synonyms for words in english or german",
   "keywords": [
     "thesaurus",
+    "synonyms",
     "german",
     "english"
   ],
@@ -15,7 +16,6 @@
   },
   "dependencies": {
     "atom-space-pen-views": "^2.2",
-    "request-promise": "^3.0.0",
-    "synonymator": "0.0.1"
+    "request-promise": "^3.0.0"
   }
 }
